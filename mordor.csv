@@ -1,0 +1,22 @@
+woj	pow	gmi	rgmi	nazwa	typ
+1				Mordor	województwo
+1	1			Gorgoroth	powiat
+1	1	1		Gorgoroth	gmina
+1	1	1	1	Barad Dur	miasto
+1	1	1	2	Mount Doom	obszar wiejski
+1	1	2		Black Gate	gmina
+1	1	2	1	Black Gate	obszar wiejski
+1	1	2	2	Black Gate	miasto
+1	1	3		Minas Morgul	gmina
+1	1	3	1	Minas Morgul	miasto
+1	1	3	5	Minas Morgul	twierdza
+1	2			Lithlad	powiat
+1	3			Ephel Duath	powiat
+1	3	1		Ephel Duath	gmina
+1	1	2	2	Ephel Duath	miasto
+1	4			Nurn	powiat
+1	4	1		Nurn	gmina
+1	4	1	1	Nurnen	obszar wiejski
+1	4	1	2	Nurnen	słone morze
+1	4	2		Mountains of Shadows	gmina
+1	4	2	1	Mountains of Shadows	obszar wiejski
